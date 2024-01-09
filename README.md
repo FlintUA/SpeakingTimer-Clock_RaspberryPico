@@ -1,2 +1,2 @@
-# SpeakingTimer-Clock_RaspberryPico
-Speaking Timer-Clock on Raspberry Pico (H/W)
+# SpeakingTimer-Clock on Raspberry Pi Pico
+Speaking Timer-Clock on Raspberry Pi Pico (H/W)
