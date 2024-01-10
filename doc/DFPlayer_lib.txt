@@ -1,0 +1,37 @@
+# nextTrack()
+# prevTrack()
+# increaseVolume()
+# decreaseVolume(self)
+# setVolume(volume) Volume can be between 0-30
+# setEQ(eq)
+        #eq can be o-5
+        #0=Normal
+        #1=Pop
+        #2=Rock
+        #3=Jazz
+        #4=Classic
+        #5=Base
+# setPlaybackMode(mode)
+        #Mode can be 0-3
+        #0=Repeat
+        #1=Folder Repeat
+        #2=Single Repeat
+        #3=Random
+# setPlaybackSource(source)
+        #Source can be 0-4
+        #0=U
+        #1=TF
+        #2=AUX
+        #3=SLEEP
+        #4=FLASH
+# standby()
+# normalWorking():
+# reset()
+# resume()
+# pause()
+# playTrack(folder, file)
+# playMP3(filenum)
+#			a = (filenum >> 8) & 0xff
+#           b = filenum & 0xff
+#        return self.sendcmd(0x12, a, b)#a, b)
+#
